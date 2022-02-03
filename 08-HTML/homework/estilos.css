@@ -1,0 +1,19 @@
+h1 { 
+    color: aqua;
+}
+img { 
+    width: 300px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 400px;
+    background-color: blue;
+}
+#sapnId {
+    font-size: 18px;
+    margin: 50px;
+}
+.divClass{
+    padding: 50px;
+    border: 2px solid red;
+}
